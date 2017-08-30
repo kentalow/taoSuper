@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoSuper_main" name="Super Sports Dragon" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoSuper_main" name="Super Sports Dragon" url="/taoSuper/TaoSuper/index" />
+			<section id="taoSuper_other" name="Template" url="/taoSuper/TaoSuper/templateExample" />
+		</sections>
+	</structure>
+</structures>
